@@ -1,25 +1,14 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post uno",
-            "body": "Aute vegan PBR&B chillwave ex ugh fingerstache ut messenger bag tumblr tumeric. Austin trust fund mumblecore drinking vinegar freegan, nostrud aliqua tilde. Tempor mollit cardigan gochujang aliqua before they sold out selvage taxidermy tote bag retro nostrud raw denim."
-        },
-        {
-            "id": 2,
-            "title": "Post Two",
-            "body": " Cloud bread cardigan proident, labore slow-carb gentrify nulla. Kinfolk tempor narwhal stumptown blog retro aliqua voluptate williamsburg vexillologist snackwave gochujang knausgaard gastropub. Echo park taiyaki quis lumbersexual ullamco "
-        },
-        {
-            "id": 3,
-            "title": "Post Three",
-            "body": "Duis hammock hoodie laborum cardigan eu tousled +1. Cardigan twee health goth pitchfork mumblecore elit sartorial portland distillery poke. Church-key ad bespoke disrupt, normcore cloud bread truffaut roof party pabst velit ennui man braid leggings enim. Enamel pin chambray adaptogen poke."
-        },
-        {
-            "id": 4,
-            "title": "Post Four",
-            "body": "Nulla vape aliquip, in selvage scenester irure vinyl nisi tumeric PBR&B eiusmod. Subway tile cardigan next level, anim waistcoat gentrify ut tacos est freegan. Pork belly wolf excepteur occupy authentic offal. Lumbersexual echo park ."
-        }
-        
-    ]
+  "posts": [
+    {
+      "title": "this is kool ",
+      "body": "let's try it ",
+      "id": 4
+    },
+    {
+      "title": "post to delete",
+      "body": "body",
+      "id": 8
+    }
+  ]
 }
